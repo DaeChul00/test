@@ -1,1 +1,2 @@
-public void Main{}
+test
+test2
